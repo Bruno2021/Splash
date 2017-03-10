@@ -469,6 +469,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   cloudProjectId: 861046d3-8e3e-4371-a13d-d45785d03e9f
   projectName: menu2
